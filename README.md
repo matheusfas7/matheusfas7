@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o Matheus! 👋
+
+🌱 Atualmente estudando C#, ASP .NET Core e MySQL
+
+😄 Em busca de um estágio
 
 ##
 
