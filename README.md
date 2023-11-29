@@ -14,7 +14,6 @@
 <h4>
  <p align="center">    
      &bull; 👩‍💻 Atualmente estudando C#, ASP .NET Core e MySQL</br>
-     &bull; 😄 Em busca de um estágio </br>
  </p>
 </h4>
 
